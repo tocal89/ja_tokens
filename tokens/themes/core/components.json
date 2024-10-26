@@ -1,0 +1,187 @@
+{
+  "text-styles": {
+    "default": {
+      "value": {
+        "letterSpacing": "{letter-spacing.none}",
+        "fontWeight": "{font-weight.regular}",
+        "fontFamily": "{font.default}",
+        "fontSize": "{font-size.md}",
+        "lineHeight": "{line-height.md}",
+        "paragraphSpacing": "{para-spacing.md}",
+        "textCase": "{text-case.none}"
+      },
+      "type": "typography"
+    },
+    "default-underlined": {
+      "value": {
+        "letterSpacing": "{letter-spacing.none}",
+        "fontWeight": "{font-weight.regular}",
+        "fontFamily": "{font.default}",
+        "fontSize": "{font-size.md}",
+        "lineHeight": "{line-height.md}",
+        "paragraphSpacing": "{para-spacing.md}",
+        "textCase": "{text-case.none}",
+        "textDecoration": "{text-decoration.underline}"
+      },
+      "type": "typography"
+    },
+    "sub-head": {
+      "value": {
+        "fontWeight": "{font-weight.semi-bold}",
+        "letterSpacing": "{letter-spacing.4xl}",
+        "textCase": "{text-case.uppercase}",
+        "fontFamily": "{font.display}"
+      },
+      "type": "typography"
+    }
+  },
+  "documentation": {
+    "head": {
+      "header": {
+        "value": {
+          "fontFamily": "{font.display}",
+          "fontWeight": "{font-weight.semi-bold}",
+          "fontSize": "{font-size.5xl}",
+          "lineHeight": "{line-height.min}",
+          "letterSpacing": "{letter-spacing.min}",
+          "paragraphSpacing": "{para-spacing.none}",
+          "textDecoration": "{text-decoration.none}",
+          "textCase": "{text-case.none}"
+        },
+        "type": "typography"
+      },
+      "sub-head": {
+        "value": {
+          "fontFamily": "{font.display}",
+          "fontWeight": "{font-weight.semi-bold}",
+          "fontSize": "{font-size.2xl}",
+          "lineHeight": "{line-height.min}",
+          "letterSpacing": "{letter-spacing.min}",
+          "paragraphSpacing": "{para-spacing.none}",
+          "textDecoration": "{text-decoration.none}",
+          "textCase": "{text-case.none}"
+        },
+        "type": "typography"
+      },
+      "sub-head-parent": {
+        "value": {
+          "fontFamily": "{font.display}",
+          "fontWeight": "{font-weight.regular}",
+          "fontSize": "{font-size.2xl}",
+          "lineHeight": "{line-height.min}",
+          "letterSpacing": "{letter-spacing.min}",
+          "paragraphSpacing": "{para-spacing.none}",
+          "textDecoration": "{text-decoration.none}",
+          "textCase": "{text-case.none}"
+        },
+        "type": "typography"
+      },
+      "sub-head-icon": {
+        "value": {
+          "fontFamily": "{font.icon}",
+          "fontWeight": "{icon-weight.outline}",
+          "fontSize": "{font-size.xl}",
+          "lineHeight": "{line-height.min}",
+          "letterSpacing": "{letter-spacing.min}",
+          "paragraphSpacing": "{para-spacing.none}",
+          "textDecoration": "{text-decoration.none}",
+          "textCase": "{text-case.none}"
+        },
+        "type": "typography"
+      }
+    },
+    "main": {
+      "sub-head": {
+        "value": {
+          "fontFamily": "{font.display}",
+          "fontWeight": "{font-weight.semi-bold}",
+          "fontSize": "{font-size.md}",
+          "lineHeight": "{line-height.min}",
+          "letterSpacing": "{letter-spacing.min}",
+          "paragraphSpacing": "{para-spacing.none}",
+          "textDecoration": "{text-decoration.none}",
+          "textCase": "{text-case.none}"
+        },
+        "type": "typography"
+      },
+      "resource-icon": {
+        "value": {
+          "fontFamily": "{font.icon}",
+          "fontSize": "{font-size.xl}",
+          "lineHeight": "{line-height.min}",
+          "letterSpacing": "{letter-spacing.min}",
+          "paragraphSpacing": "{para-spacing.none}",
+          "textDecoration": "{text-decoration.none}",
+          "textCase": "{text-case.none}",
+          "fontWeight": "{icon-weight.filled}"
+        },
+        "type": "typography"
+      },
+      "caption-low": {
+        "value": {
+          "fontFamily": "{font.default}",
+          "fontWeight": "{font-weight.semi-bold}",
+          "fontSize": "{font-size.min}",
+          "lineHeight": "{line-height.md}",
+          "letterSpacing": "{letter-spacing.none}",
+          "paragraphSpacing": "{para-spacing.none}",
+          "textDecoration": "{text-decoration.none}",
+          "textCase": "{text-case.none}"
+        },
+        "type": "typography"
+      }
+    },
+    "colour": {
+      "hex": {
+        "value": {
+          "fontFamily": "{font.code}",
+          "fontWeight": "{font-weight.semi-bold}",
+          "fontSize": "{font-size.min}",
+          "lineHeight": "{line-height.md}",
+          "letterSpacing": "{letter-spacing.md}",
+          "paragraphSpacing": "{para-spacing.none}",
+          "textDecoration": "{text-decoration.none}",
+          "textCase": "{text-case.uppercase}"
+        },
+        "type": "typography"
+      },
+      "wcag": {
+        "value": {
+          "fontFamily": "{font.code}",
+          "fontWeight": "{font-weight.semi-bold}",
+          "fontSize": "{font-size.sm}",
+          "lineHeight": "{line-height.md}",
+          "letterSpacing": "{letter-spacing.none}",
+          "paragraphSpacing": "{para-spacing.none}",
+          "textDecoration": "{text-decoration.none}",
+          "textCase": "{text-case.uppercase}"
+        },
+        "type": "typography"
+      }
+    }
+  },
+  "atoms": {
+    "buttons": {
+      "button-text": {
+        "value": {
+          "fontFamily": "{font.display}",
+          "fontWeight": "{font-weight.semi-bold}",
+          "lineHeight": "{line-height.min}",
+          "letterSpacing": "{letter-spacing.min}",
+          "paragraphSpacing": "{para-spacing.md}"
+        },
+        "type": "typography"
+      },
+      "button-icon": {
+        "value": {
+          "fontFamily": "{font.icon}",
+          "lineHeight": "{line-height.min}",
+          "letterSpacing": "{letter-spacing.none}",
+          "paragraphSpacing": "{para-spacing.md}",
+          "fontWeight": "Solid"
+        },
+        "type": "typography"
+      }
+    }
+  }
+}

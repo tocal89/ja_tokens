@@ -1,0 +1,168 @@
+{
+  "buttons": {
+    "text": {
+      "xs": {
+        "value": "{font-size.min}",
+        "type": "fontSizes"
+      },
+      "sm": {
+        "value": "{font-size.sm}",
+        "type": "fontSizes"
+      },
+      "md": {
+        "value": "{font-size.md}",
+        "type": "fontSizes"
+      },
+      "lg": {
+        "value": "{font-size.lg}",
+        "type": "fontSizes"
+      },
+      "xl": {
+        "value": "{font-size.xl}",
+        "type": "fontSizes"
+      }
+    },
+    "icon": {
+      "xs": {
+        "value": "{font-size.icon-md}",
+        "type": "fontSizes"
+      },
+      "sm": {
+        "value": "{font-size.min}",
+        "type": "fontSizes"
+      },
+      "md": {
+        "value": "{font-size.sm}",
+        "type": "fontSizes"
+      },
+      "lg": {
+        "value": "{font-size.sm}",
+        "type": "fontSizes"
+      },
+      "xl": {
+        "value": "{font-size.lg}",
+        "type": "fontSizes"
+      },
+      "icon-only-xs": {
+        "value": "{font-size.min}",
+        "type": "fontSizes"
+      },
+      "icon-only-sm": {
+        "value": "{font-size.md}",
+        "type": "fontSizes"
+      },
+      "icon-only-md": {
+        "value": "{font-size.lg}",
+        "type": "fontSizes"
+      },
+      "icon-only-lg": {
+        "value": "{font-size.xl}",
+        "type": "fontSizes"
+      },
+      "icon-only-xl": {
+        "value": "{font-size.2xl}",
+        "type": "fontSizes"
+      }
+    },
+    "radius-primary-xs": {
+      "value": "{border-radius.xxs}",
+      "type": "borderRadius"
+    },
+    "radius-focus-xs": {
+      "value": "{border-radius.xs}",
+      "type": "borderRadius"
+    },
+    "radius-primary-sm": {
+      "value": "{border-radius.md}",
+      "type": "borderRadius"
+    },
+    "radius-focus-sm": {
+      "value": "{border-radius.lg}",
+      "type": "borderRadius"
+    },
+    "radius-primary-md": {
+      "value": "{border-radius.xl}",
+      "type": "borderRadius"
+    },
+    "radius-focus-md": {
+      "value": "{border-radius.2xl}",
+      "type": "borderRadius"
+    },
+    "padding-internal-xs": {
+      "value": "{spacing.xxxxxs}",
+      "type": "spacing"
+    },
+    "padding-internal-sm": {
+      "value": "{spacing.xxxxs}",
+      "type": "spacing"
+    },
+    "padding-internal-md": {
+      "value": "{spacing.xxxs}",
+      "type": "spacing"
+    },
+    "padding-internal-lg": {
+      "value": "{spacing.xxs}",
+      "type": "spacing"
+    },
+    "padding-horizontal-xs": {
+      "value": "{spacing.xs}",
+      "type": "spacing"
+    },
+    "padding-horizontal-sm": {
+      "value": "{spacing.sm}",
+      "type": "spacing"
+    },
+    "padding-horizontal-md": {
+      "value": "{spacing.md}",
+      "type": "spacing"
+    },
+    "padding-horizontal-lg": {
+      "value": "{spacing.lg}",
+      "type": "spacing"
+    },
+    "padding-horizontal-xl": {
+      "value": "{spacing.xl}",
+      "type": "spacing"
+    },
+    "padding-vertical-xs": {
+      "value": "{spacing.xxxs}",
+      "type": "spacing"
+    },
+    "padding-vertical-sm": {
+      "value": "{spacing.xxs}",
+      "type": "spacing"
+    },
+    "padding-vertical-md": {
+      "value": "{spacing.xs}",
+      "type": "spacing"
+    },
+    "padding-vertical-lg": {
+      "value": "{spacing.sm}",
+      "type": "spacing"
+    },
+    "padding-vertical-xl": {
+      "value": "{buttons.padding-horizontal-md}",
+      "type": "spacing"
+    },
+    "icon-only-xs": {
+      "value": "{sizing.3xl}",
+      "type": "sizing"
+    },
+    "icon-only-sm": {
+      "value": "{sizing.5xl}",
+      "type": "sizing"
+    },
+    "icon-only-md": {
+      "value": "{sizing.6xl}",
+      "type": "sizing"
+    },
+    "icon-only-lg": {
+      "value": "{sizing.7xl}",
+      "type": "sizing"
+    },
+    "icon-only-xl": {
+      "value": "{sizing.8xl}",
+      "type": "sizing"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "tokenSetOrder": [
+    "primitives/brand",
+    "semantic/system",
+    "semantic/sizing",
+    "themes/core/documentation",
+    "themes/core/components",
+    "themes/styling/light",
+    "themes/styling/dark",
+    "themes/sizing/desktop"
+  ]
+}
