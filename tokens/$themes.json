@@ -310,7 +310,6 @@
       "icon.brands.google": "2630e0f2811f412007cce557bb67193755a5bd45",
       "icon.brands.instagram": "a64bd9dfebe21344d299e69f72e635a1baa99e56",
       "icon.brands.paypal": "8ff780c32126741a5402d4bdc20f685e76a724bc",
-      "icon.brands.steam": "82e2295e18618f5ec16683c98b7996d306ac2211",
       "icon.brands.tiktok": "65cef357946b57dc714603404e3f6ab551149d99",
       "icon.brands.twitch": "ae4e7eec5c6a97ccba6d0a3440dfb8c5994d7a0d",
       "icon.brands.youtube": "5356a297ea03a1b5dbbd15edc0b49968601b18ec",
@@ -319,7 +318,8 @@
       "icon.rewards.curated": "95518e80c08b748617ce79e5f4427c01180a3f6c",
       "icon.rewards.pending": "c83fac77f32f93df4209664bcc4c4b370915b581",
       "icon.rewards.reject": "eaba66bba7344d4afce9af74abb353bbffbbc926",
-      "icon.rewards.shortlist": "8a4bab8ef3aae954640a684c0be52f57acbf8e48"
+      "icon.rewards.shortlist": "8a4bab8ef3aae954640a684c0be52f57acbf8e48",
+      "icon.brands.steam-circle": "82e2295e18618f5ec16683c98b7996d306ac2211"
     },
     "$figmaCollectionId": "VariableCollectionId:1:2",
     "$figmaModeId": "1:0"

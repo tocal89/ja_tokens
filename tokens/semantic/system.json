@@ -2214,8 +2214,12 @@
         "value": "",
         "type": "text"
       },
-      "steam": {
+      "steam-circle": {
         "value": "",
+        "type": "text"
+      },
+      "steam": {
+        "value": "",
         "type": "text"
       },
       "tiktok": {
