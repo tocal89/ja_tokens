@@ -1695,12 +1695,12 @@
     }
   },
   "icon": {
-    "space": {
-      "film-tv": {
+    "legacy": {
+      "film-tv-legacy": {
         "value": "",
         "type": "text"
       },
-      "music": {
+      "music-legacy": {
         "value": "",
         "type": "text"
       },
@@ -1708,20 +1708,32 @@
         "value": "",
         "type": "text"
       },
-      "sport": {
+      "sport-legacy": {
         "value": "",
         "type": "text"
       },
-      "tech": {
+      "tech-legacy": {
         "value": "",
         "type": "text"
       },
-      "video-games": {
+      "video-games-legacy": {
         "value": "",
+        "type": "text"
+      },
+      "bounty-legacy": {
+        "value": "",
+        "type": "text"
+      },
+      "prize-legacy": {
+        "value": "",
         "type": "text"
       }
     },
     "media": {
+      "camera": {
+        "value": "",
+        "type": "text"
+      },
       "image": {
         "value": "",
         "type": "text"
@@ -1778,8 +1790,8 @@
       }
     },
     "user-tools": {
-      "camera": {
-        "value": "",
+      "bookmark": {
+        "value": "",
         "type": "text"
       },
       "delete": {
@@ -1790,24 +1802,20 @@
         "value": "",
         "type": "text"
       },
-      "reply": {
-        "value": "",
-        "type": "text"
-      },
-      "report": {
-        "value": "",
-        "type": "text"
-      },
-      "info": {
-        "value": "",
+      "lock": {
+        "value": "",
         "type": "text"
       },
       "pin": {
         "value": "",
         "type": "text"
       },
-      "save": {
-        "value": "",
+      "reply": {
+        "value": "",
+        "type": "text"
+      },
+      "report": {
+        "value": "",
         "type": "text"
       },
       "save-data": {
@@ -1820,6 +1828,10 @@
       },
       "share": {
         "value": "",
+        "type": "text"
+      },
+      "unlock": {
+        "value": "",
         "type": "text"
       }
     },
@@ -1841,7 +1853,7 @@
         "type": "text"
       },
       "bullets": {
-        "value": "",
+        "value": "",
         "type": "text"
       },
       "numbers": {
@@ -1882,12 +1894,24 @@
         "value": "",
         "type": "text"
       },
+      "check": {
+        "value": "",
+        "type": "text"
+      },
+      "check-circle": {
+        "value": "",
+        "type": "text"
+      },
       "close": {
         "value": "",
         "type": "text"
       },
       "coin": {
         "value": "",
+        "type": "text"
+      },
+      "download": {
+        "value": "",
         "type": "text"
       },
       "emoji": {
@@ -1902,12 +1926,12 @@
         "value": "",
         "type": "text"
       },
-      "exit": {
-        "value": "",
-        "type": "text"
-      },
       "expand": {
         "value": "",
+        "type": "text"
+      },
+      "export": {
+        "value": "",
         "type": "text"
       },
       "external-link": {
@@ -1918,12 +1942,12 @@
         "value": "",
         "type": "text"
       },
-      "hide": {
-        "value": "",
+      "hamburger": {
+        "value": "",
         "type": "text"
       },
-      "hot": {
-        "value": "",
+      "hide": {
+        "value": "",
         "type": "text"
       },
       "loader-bg": {
@@ -1938,12 +1962,16 @@
         "value": "@",
         "type": "text"
       },
-      "new": {
-        "value": "",
+      "no-entry": {
+        "value": "",
         "type": "text"
       },
       "refresh": {
         "value": "",
+        "type": "text"
+      },
+      "review": {
+        "value": "",
         "type": "text"
       },
       "show": {
@@ -1965,15 +1993,97 @@
       "upload": {
         "value": "",
         "type": "text"
+      },
+      "verified": {
+        "value": "",
+        "type": "text"
+      }
+    },
+    "filters": {
+      "active": {
+        "value": "",
+        "type": "text"
+      },
+      "hot": {
+        "value": "",
+        "type": "text"
+      },
+      "new": {
+        "value": "",
+        "type": "text"
+      },
+      "one": {
+        "value": "1",
+        "type": "text"
+      },
+      "two": {
+        "value": "2",
+        "type": "text"
+      },
+      "three": {
+        "value": "3",
+        "type": "text"
+      },
+      "four": {
+        "value": "4",
+        "type": "text"
+      },
+      "five": {
+        "value": "5",
+        "type": "text"
+      },
+      "six": {
+        "value": "6",
+        "type": "text"
+      },
+      "seven": {
+        "value": "7",
+        "type": "text"
+      },
+      "eight": {
+        "value": "8",
+        "type": "text"
+      },
+      "nine": {
+        "value": "9",
+        "type": "text"
+      },
+      "zero": {
+        "value": "0",
+        "type": "text"
+      },
+      "dollar-sign": {
+        "value": "$",
+        "type": "text"
+      },
+      "grid": {
+        "value": "",
+        "type": "text"
+      },
+      "list": {
+        "value": "",
+        "type": "text"
+      },
+      "sort": {
+        "value": "",
+        "type": "text"
+      },
+      "sort-down": {
+        "value": "",
+        "type": "text"
+      },
+      "sort-up": {
+        "value": "",
+        "type": "text"
       }
     },
     "signposting": {
-      "bounty": {
-        "value": "",
-        "type": "text"
-      },
       "community": {
         "value": "",
+        "type": "text"
+      },
+      "cookie": {
+        "value": "",
         "type": "text"
       },
       "earnings": {
@@ -1984,24 +2094,32 @@
         "value": "",
         "type": "text"
       },
-      "live-feed": {
-        "value": "",
+      "info": {
+        "value": "",
         "type": "text"
       },
       "notification": {
         "value": "",
         "type": "text"
       },
-      "prize": {
-        "value": "",
+      "quantity": {
+        "value": "",
         "type": "text"
       },
       "settings": {
         "value": "",
         "type": "text"
       },
-      "quantity": {
-        "value": "",
+      "user": {
+        "value": "",
+        "type": "text"
+      },
+      "user-plus": {
+        "value": "",
+        "type": "text"
+      },
+      "globe": {
+        "value": "",
         "type": "text"
       }
     },
@@ -2068,6 +2186,10 @@
         "value": "",
         "type": "text"
       },
+      "bluesky": {
+        "value": "",
+        "type": "text"
+      },
       "discord": {
         "value": "",
         "type": "text"
@@ -2088,6 +2210,10 @@
         "value": "",
         "type": "text"
       },
+      "steam": {
+        "value": "",
+        "type": "text"
+      },
       "tiktok": {
         "value": "",
         "type": "text"
@@ -2105,9 +2231,13 @@
         "type": "text"
       }
     },
-    "admin-tools": {
+    "rewards": {
       "award": {
         "value": "",
+        "type": "text"
+      },
+      "curated": {
+        "value": "",
         "type": "text"
       },
       "pending": {
