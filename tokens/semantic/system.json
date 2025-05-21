@@ -1171,6 +1171,10 @@
       "value": "{primitive-fonts.poppins}",
       "type": "fontFamilies"
     },
+    "brand": {
+      "value": "{primitive-fonts.basic-sans}",
+      "type": "fontFamilies"
+    },
     "code": {
       "value": "{primitive-fonts.source-code}",
       "type": "fontFamilies"

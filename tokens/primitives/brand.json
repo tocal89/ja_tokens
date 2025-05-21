@@ -2226,16 +2226,20 @@
     }
   },
   "primitive-fonts": {
+    "basic-sans": {
+      "value": "Basic Sans",
+      "type": "fontFamilies"
+    },
+    "source-code": {
+      "value": "Source Code Pro",
+      "type": "fontFamilies"
+    },
     "source-sans": {
       "value": "Source Sans Pro",
       "type": "fontFamilies"
     },
     "poppins": {
       "value": "Poppins",
-      "type": "fontFamilies"
-    },
-    "source-code": {
-      "value": "Source Code Pro",
       "type": "fontFamilies"
     },
     "font-awesome": {
