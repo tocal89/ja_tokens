@@ -1758,6 +1758,10 @@
         "value": "",
         "type": "text"
       },
+      "various": {
+        "value": "",
+        "type": "text"
+      },
       "video": {
         "value": "",
         "type": "text"
