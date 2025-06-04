@@ -1954,6 +1954,10 @@
         "value": "",
         "type": "text"
       },
+      "history": {
+        "value": "",
+        "type": "text"
+      },
       "loader-bg": {
         "value": "",
         "type": "text"
@@ -2000,10 +2004,6 @@
       },
       "verified": {
         "value": "",
-        "type": "text"
-      },
-      "history": {
-        "value": "",
         "type": "text"
       }
     },
@@ -2084,7 +2084,7 @@
         "value": "",
         "type": "text"
       },
-      "tim": {
+      "time": {
         "value": "",
         "type": "text"
       }
