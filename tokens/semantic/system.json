@@ -2001,6 +2001,10 @@
       "verified": {
         "value": "",
         "type": "text"
+      },
+      "history": {
+        "value": "",
+        "type": "text"
       }
     },
     "filters": {
