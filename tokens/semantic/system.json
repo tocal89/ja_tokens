@@ -2137,6 +2137,10 @@
       "globe": {
         "value": "",
         "type": "text"
+      },
+      "chat": {
+        "value": "",
+        "type": "text"
       }
     },
     "positioning": {
