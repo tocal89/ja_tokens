@@ -2009,6 +2009,10 @@
     },
     "filters": {
       "active": {
+        "value": "",
+        "type": "text"
+      },
+      "boosted": {
         "value": "",
         "type": "text"
       },
